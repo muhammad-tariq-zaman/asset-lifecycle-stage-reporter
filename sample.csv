@@ -1,0 +1,5 @@
+asset,model,purchase_date,expected_life_years
+LT-01,Dell Latitude 5540,2025-06-01,4
+LT-02,HP EliteBook 840,2022-03-15,4
+LT-03,Lenovo ThinkPad T14,2020-11-01,5
+LT-04,Dell OptiPlex 7090,2026-09-01,5
